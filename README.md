@@ -3,7 +3,8 @@
 TalkToFiles is a web application built using **Gradio** and **Haystack**, designed to enable users to upload documents and interact with their content through a conversational AI interface. This chatbot leverages **Retrieval-Augmented Generation (RAG)** to provide accurate and context-aware answers by retrieving information from document content.
 
 ---
-
+[App Demo Link](https://huggingface.co/spaces/Dharma20/Talk-to-Files-RAG-ChatBot)
+---
 ## Features
 
 - **Document Upload**: Upload multiple files in PDF, Markdown, or Text format.
